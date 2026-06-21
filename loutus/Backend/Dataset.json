@@ -1,0 +1,97 @@
+[
+    {
+      "sleep": 8 , "Meetings":2 , "Weekends":"No" , "Stress":3 ,"Target":"Healthy"
+
+    },
+    {
+    "sleep": 7, "Meetings": 4, "Weekends": "No","Stress": 5,"Target": "Healthy"
+    }, 
+    {
+    "sleep": 6,"Meetings": 6, "Weekends": "Yes", "Stress": 7, "Target": "Risk of burnout"
+    },
+    {
+    "sleep": 5,  "Meetings": 8, "Weekends": "Yes", "Stress": 8,"Target": "Vacation required"
+    },
+    {
+    "sleep": 4, "Meetings": 10, "Weekends": "Yes", "Stress": 9,"Target": "Critical condition"
+    },
+    {
+    "sleep": 9, "Meetings": 1, "Weekends": "No", "Stress": 2, "Target": "Healthy"
+    },
+    {
+    "sleep": 6, "Meetings": 7,  "Weekends": "No",  "Stress": 6, "Target": "Risk of burnout"
+    },
+    {
+    "sleep": 5,   "Meetings": 9,   "Weekends": "Yes",   "Stress": 9,  "Target": "Critical condition"
+    },
+    {
+  "sleep": 9,
+  "Meetings": 8,
+  "Weekends": "Yes",
+  "Stress": 9,
+  "Target": "Risk of burnout"
+},
+{
+  "sleep": 8,
+  "Meetings": 10,
+  "Weekends": "Yes",
+  "Stress": 10,
+  "Target": "Critical condition"
+},
+{
+  "sleep": 5,
+  "Meetings": 0,
+  "Weekends": "No",
+  "Stress": 1,
+  "Target": "Healthy"
+},
+{
+  "sleep": 6,
+  "Meetings": 2,
+  "Weekends": "No",
+  "Stress": 2,
+  "Target": "Healthy"
+},
+{
+  "sleep": 7,
+  "Meetings": 7,
+  "Weekends": "Yes",
+  "Stress": 8,
+  "Target": "Risk of burnout"
+},
+{
+  "sleep": 4,
+  "Meetings": 5,
+  "Weekends": "No",
+  "Stress": 6,
+  "Target": "Risk of burnout"
+},
+{
+  "sleep": 3,
+  "Meetings": 10,
+  "Weekends": "Yes",
+  "Stress": 10,
+  "Target": "Critical condition"
+},
+{
+  "sleep": 8,
+  "Meetings": 1,
+  "Weekends": "No",
+  "Stress": 1,
+  "Target": "Healthy"
+},
+{
+  "sleep": 6,
+  "Meetings": 9,
+  "Weekends": "Yes",
+  "Stress": 9,
+  "Target": "Vacation required"
+},
+{
+  "sleep": 4,
+  "Meetings": 8,
+  "Weekends": "Yes",
+  "Stress": 8,
+  "Target": "Vacation required"
+}
+]
