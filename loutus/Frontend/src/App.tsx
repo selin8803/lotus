@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
 
-    fetch("http://localhost:5000/api/tree")
+    fetch("https://lotus-rtib.onrender.com/api/tree")
       .then(response => response.json())
       .then(data => setTree(data));
 
@@ -22,7 +22,7 @@ function App() {
 
     try {
 
-      const response = await fetch("http://localhost:5000/api/predict", {
+      const response = await fetch("https://lotus-rtib.onrender.com/api/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
